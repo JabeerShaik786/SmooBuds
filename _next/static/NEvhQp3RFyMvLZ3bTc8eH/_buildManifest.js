@@ -1,7 +1,12 @@
 self.__BUILD_MANIFEST = {
   "__rewrites": {
     "afterFiles": [],
-    "beforeFiles": [],
+    "beforeFiles": [
+      {
+        "source": "/SmooBuds//_next/:path+",
+        "destination": "/SmooBuds/_next/:path+"
+      }
+    ],
     "fallback": []
   },
   "sortedPages": [

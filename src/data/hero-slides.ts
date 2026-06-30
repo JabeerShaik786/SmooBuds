@@ -21,7 +21,7 @@ export const HERO_SLIDES: HeroSlide[] = [
     ctaLink: "#menu",
     secondaryCtaText: "Order Now",
     secondaryCtaLink: "#menu",
-    image: "/images/hero_cake.png",
+    image: "/SmooBuds/images/hero_cake.png",
   },
   {
     id: "slide-2",
@@ -41,7 +41,7 @@ export const HERO_SLIDES: HeroSlide[] = [
     subheading: "Rich, fudgy brownies baked daily using premium ingredients.",
     ctaText: "Shop Brownies",
     ctaLink: "#menu",
-    image: "/images/fudge_brownie.png",
+    image: "/SmooBuds/images/fudge_brownie.png",
   },
   {
     id: "slide-4",
@@ -50,7 +50,7 @@ export const HERO_SLIDES: HeroSlide[] = [
     subheading: "Fresh pizzas, burgers, garlic bread, wraps, fries, sandwiches, and café favourites.",
     ctaText: "Explore Hot Bites",
     ctaLink: "#hot-bites",
-    image: "/images/sourdough_pizza.png",
+    image: "/SmooBuds/images/sourdough_pizza.png",
   },
   {
     id: "slide-5",
@@ -59,7 +59,7 @@ export const HERO_SLIDES: HeroSlide[] = [
     subheading: "Premium coffee, refreshing mojitos, milkshakes, and handcrafted beverages.",
     ctaText: "View Drinks",
     ctaLink: "#menu",
-    image: "/images/cold_brew.png",
+    image: "/SmooBuds/images/cold_brew.png",
   },
   {
     id: "slide-6",

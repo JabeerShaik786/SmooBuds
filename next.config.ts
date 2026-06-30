@@ -1,10 +1,10 @@
 import type { NextConfig } from "next";
 
-const isProd = process.env.NODE_ENV === "production";
-
 const nextConfig: NextConfig = {
   output: "export",
-  basePath: isProd ? "/SmooBuds" : "",
+  basePath: "/SmooBuds",
+  assetPrefix: "/SmooBuds/",
+  trailingSlash: true,
   images: {
     unoptimized: true, // Required for static export in Next.js
     remotePatterns: [

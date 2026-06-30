@@ -7,7 +7,7 @@ import Image from "next/image";
 export function CafeExperience() {
   const images = [
     {
-      src: "/images/cafe_interior.png",
+      src: "/SmooBuds/images/cafe_interior.png",
       alt: "Minimalist oak wood and concrete interior of Smoo Buds Cafe",
       aspect: "aspect-[4/5]",
     },
@@ -17,7 +17,7 @@ export function CafeExperience() {
       aspect: "aspect-square",
     },
     {
-      src: "/images/garlic_bread.png",
+      src: "/SmooBuds/images/garlic_bread.png",
       alt: "Confit garlic and rosemary bread pulled fresh from the woodfire oven",
       aspect: "aspect-[3/4]",
     },
@@ -32,7 +32,7 @@ export function CafeExperience() {
       aspect: "aspect-video",
     },
     {
-      src: "/images/sourdough_pizza.png",
+      src: "/SmooBuds/images/sourdough_pizza.png",
       alt: "Fresh wood-fired sourdough pizza ready to slice",
       aspect: "aspect-square",
     },

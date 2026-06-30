@@ -76,7 +76,7 @@ export function SignatureCakes() {
           <div className="lg:col-span-5 relative">
             <div className="relative aspect-[3/4] w-full overflow-hidden rounded-xl bg-cream/15 border border-border-brand/40 shadow-xl">
               <Image
-                src="/images/cafe_interior.png"
+                src="/SmooBuds/images/cafe_interior.png"
                 alt="Inside the Smoo Buds minimalist cafe kitchen"
                 fill
                 className="object-cover"
